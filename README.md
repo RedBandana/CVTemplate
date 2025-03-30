@@ -8,4 +8,4 @@ This is a responsive CV template created using the following technology stack: J
 
 ## Preview
 
-![Preview](https://i.ibb.co/bM1njn5W/cv-Template-Preview.gif)
+![cvTemplatePreview](https://github.com/user-attachments/assets/edc9ce85-82d0-4ed4-b863-8b88b098976c)
