@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap05);
+  padding: 0 var(--gap02);
+}
+
+.text {
+  max-width: 825px;
+}

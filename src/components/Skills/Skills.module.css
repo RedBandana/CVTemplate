@@ -1,0 +1,11 @@
+.container,
+.skills {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap01);
+}
+
+.container {
+  padding: var(--gap04) var(--gap02);
+  border-radius: var(--radius);
+}

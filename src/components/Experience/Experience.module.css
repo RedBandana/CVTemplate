@@ -1,0 +1,10 @@
+.container,
+.tasks {
+  display: flex;
+  flex-direction: column;
+  gap: var(--gap01);
+}
+
+.date {
+  color: var(--color-text-light);
+}
