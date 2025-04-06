@@ -1,4 +1,4 @@
-This is a responsive CV template created using the following technology stack: JavaScript (TypeScript, React, Next.js, Jest, Node.js), CSS, and HTML. You can view it at the following link:
+This is a responsive CV template created using the following technology stack: JavaScript (TypeScript, React, Next.js, Jest, Node.js), CSS, and HTML.
 
 ## Getting Started
 
